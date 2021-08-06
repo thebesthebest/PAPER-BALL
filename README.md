@@ -1,1 +1,2 @@
-# PAPER-BALL
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
